@@ -1,6 +1,4 @@
 # Data-Analytics-Projects
-Delve into my personal collection of beginner-friendly data analytics projects. Learn hands-on with step-by-step guides and join a supportive community to visualize insights together! 🌟📊
-
 
 
 📊 Data Analytics Projects Repository 📈

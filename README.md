@@ -1,4 +1,4 @@
-# Data Analyst Projects
+# Data Analytics Projects
 
 
 📊 Data Analytics Projects Repository 📈
